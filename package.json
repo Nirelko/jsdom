@@ -1,6 +1,6 @@
 {
-  "name": "jsdom",
-  "version": "20.0.3",
+  "name": "@honeybook/jsdom",
+  "version": "20.1.0_1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
